@@ -8,6 +8,7 @@
 	height:60px;
 	margin:0 auto;
 	border-bottom:5px solid #EF7124;
+    box-shadow:5px 5px 5px darkgrey;
 }
 #sliced-orange {
 	width:25px;
@@ -56,16 +57,18 @@ input {
 	font-size:10px;
 	padding:10px;
 	text-transform: uppercase;
-	margin-top:-20px;
+	margin-top:-15px;
 	margin-right:55px;
+    box-shadow:5px 5px 5px darkgrey;
 }
 .magnify {
     width:25px;
     float:right;
     position: relative;
-    top:-10px;
+    top:-5px;
     left:162px;
     opacity:.5;
+    box-shadow:5px 5px 5px darkgrey;
 }
 .middle-section {
     width:100%;
