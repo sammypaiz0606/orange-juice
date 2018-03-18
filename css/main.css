@@ -1,0 +1,136 @@
+* {
+	margin:0 auto;
+	padding:0;
+	
+}
+.top-bar {
+	background-color:#FC7E23;
+	height:60px;
+	margin:0 auto;
+	border-bottom:5px solid #EF7124;
+}
+#sliced-orange {
+	width:25px;
+	position: relative;
+	top:20px;
+	left:70px;
+}
+.top-bar h1 {
+	color:#FFF;
+    margin:-10px 0 0 100px;
+    
+}
+
+.top-bar #juice {
+	font-weight:normal;
+}
+.top-bar #tm {
+	color:#FFF;
+	position: relative;
+	top:-35px;
+	left:210px;
+	text-transform: uppercase;
+	font-size:8px;
+}
+.top-bar ul {
+    margin-right:25px;
+	float:right;
+}
+
+.top-bar li {
+	text-decoration: none;
+	display:inline-block;
+	padding:12px;
+	position: relative;
+	top:-45px;
+	color:#FFF;
+    text-transform: capitalize;
+}
+input {
+	clear:both;
+	width:150px;
+	height:20px;
+	border-radius:5px;
+	float:right;
+	position: relative;
+	font-size:10px;
+	padding:10px;
+	text-transform: uppercase;
+	margin-top:-20px;
+	margin-right:55px;
+}
+.magnify {
+    width:25px;
+    float:right;
+    position: relative;
+    top:-10px;
+    left:162px;
+    opacity:.5;
+}
+.middle-section {
+    width:100%;
+}
+.middlesite {
+    display:inline-block;
+}
+.middle-section-left {
+    width:45%;
+    
+}
+.middle-section-left img {
+    width:100%;
+    min-width:300px;
+    margin:15px;
+}
+.middle-section-right {
+    width:45%;
+}
+.middle-section-right p {
+    width:70%;
+    font-size:25px;
+    position: relative;
+    line-height:40px;
+    top:-100px;
+    font-family:monospace;
+        color:#E57027;
+
+    
+}
+.para-orange {
+    color:#E57027;
+    font-weight:bold;
+}
+.para-tm {
+    font-size:10px;
+    color:#E57027;
+    position: relative;
+    top:-10px;
+    left:-20px;
+    text-transform: uppercase;
+}
+.middle-section-right button {
+    width:200px;
+    padding:15px;
+    text-align: center;
+    margin:5px;
+    position: relative;
+    left:100px;
+    top:-50px;
+    text-transform: uppercase;
+    color:#FFF;
+    box-shadow:5px 5px 5px darkgray;
+    cursor:pointer;
+}
+.orange-button {
+    margin-left:35px;
+    background-color:#FC7E23;
+}
+.blue-button {
+    background-color:#7DCCC6;
+}
+.footer {
+    width:100%;
+    height:60px;
+    background-color:#7DCCC6;
+    margin-top:20px;
+}
